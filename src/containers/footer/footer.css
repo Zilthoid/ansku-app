@@ -1,0 +1,17 @@
+.social_container {
+    margin: 2rem 3rem 1rem;
+}
+
+.social_buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white; 
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.social_buttons a :hover {
+    color: #FF0000;
+    transition: ease-in-out 0.2s;
+}

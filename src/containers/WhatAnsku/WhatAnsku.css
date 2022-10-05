@@ -1,0 +1,29 @@
+.WA__section-container {
+    border: solid 2px var(red);
+    background: var(--color-bg);
+    margin: 3rem 5rem 3rem 5rem;
+    display: flex;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+}
+
+.WA__section-features {
+    font-family: var(--font-family);
+    color: var(--color-text);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.WA__section-features p {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    margin: 3rem;
+}
+
+.WA__section-features h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
