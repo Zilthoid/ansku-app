@@ -1,6 +1,6 @@
 import React from 'react'
 import "./footer.css"
-import { FiFacebook, FiTwitter } from "react-icons/fi";
+import { FiFacebook, FiYoutube } from "react-icons/fi";
 import { AiOutlineInstagram  } from "react-icons/ai"
 
 
@@ -10,7 +10,7 @@ const Footer = () => {
       <div className='social_buttons'>
         <a href='https://www.facebook.com' type='button' ><FiFacebook/></a>
         <a href='https://www.instagram.com'><AiOutlineInstagram/></a>
-        <a href="https://www.twitter.com"><FiTwitter/></a>
+        <a href="https://www.youtube.com"><FiYoutube/></a>
       </div>
     </div>
   )
