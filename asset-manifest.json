@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ansku-app/static/css/main.e71c8cf7.css",
-    "main.js": "/ansku-app/static/js/main.75a7bd43.js",
+    "main.css": "/ansku-app/static/css/main.9b0912ec.css",
+    "main.js": "/ansku-app/static/js/main.2ac9e510.js",
     "static/media/Port.JPG": "/ansku-app/static/media/Port.6204864cc516642f11b6.JPG",
     "static/media/photo1.jpg": "/ansku-app/static/media/photo1.3b3e197afa9aff24760d.jpg",
     "static/media/photo3.jpg": "/ansku-app/static/media/photo3.8175c65662cbf526cd1b.jpg",
     "static/media/photo2.jpg": "/ansku-app/static/media/photo2.c92a00bd7590428aa940.jpg",
     "static/media/logo.svg": "/ansku-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/ansku-app/index.html",
-    "main.e71c8cf7.css.map": "/ansku-app/static/css/main.e71c8cf7.css.map",
-    "main.75a7bd43.js.map": "/ansku-app/static/js/main.75a7bd43.js.map"
+    "main.9b0912ec.css.map": "/ansku-app/static/css/main.9b0912ec.css.map",
+    "main.2ac9e510.js.map": "/ansku-app/static/js/main.2ac9e510.js.map"
   },
   "entrypoints": [
-    "static/css/main.e71c8cf7.css",
-    "static/js/main.75a7bd43.js"
+    "static/css/main.9b0912ec.css",
+    "static/js/main.2ac9e510.js"
   ]
 }
