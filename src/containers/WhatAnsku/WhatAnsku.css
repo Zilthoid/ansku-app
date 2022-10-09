@@ -19,11 +19,20 @@
     display: flex;
     justify-content: center;
     font-size: 18px;
-    margin: 3rem;
+    margin: 2rem;
 }
 
 .WA__section-features h1 {
     display: flex;
     justify-content: center;
     margin-top: 3rem;
+}
+
+@media screen and (max-width: 550px){
+    .WA__section-features p{
+        margin: 0.2rem;
+    }
+    .WA__section-features h1{
+        margin: 1rem;
+    }
 }

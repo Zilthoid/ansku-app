@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-import { SliderData } from './SliderData'
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa"
 import "./imageSlider.css"
 
@@ -25,13 +24,13 @@ const length = slides.length
       <section className='slider' id='work'>
         <FaArrowLeft className='left-arrow' onClick={prevSlide} />
         <FaArrowRight className='right-arrow' onClick={nextSlide} />
-        {SliderData.map((slide, index) => {
+        {slides.map((slide, index) => {
             return (
 
               
               <div className={index === current ? "slide active" : "slide"} key="index">
                 {index === current && (
-                  <img src={slide.image} alt="" className='image'/>
+                  <img src={slide} alt="" className='image'/>
                 )}
               </div>
               

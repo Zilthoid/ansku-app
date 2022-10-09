@@ -92,6 +92,22 @@
     height: 100%;
 }
 
+.email-link{
+    margin: 20px;
+    color: var(--color-text);
+    font-family: var(--font-family);
+    font-weight:600;
+    border: 2px solid var(--color-text);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.email-link:hover{
+    background-color: #702d65;
+    color: var(--color-text);
+    transition: ease-in-out 0.25s;
+}
+
 @media screen and (max-width: 1050px) {
     .gpt3__header{
         flex-direction: column;
