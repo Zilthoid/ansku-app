@@ -7,13 +7,15 @@ const Header = () => {
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>
 
-        <h1 className='gradient__text'>If it's tattoos you want! Have i got a deal for you!</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi placeat eos saepe aperiam dolores est quo iure id eum quos esse incidunt temporibus consequuntur, possimus repellat debitis aliquid sapiente quidem nulla perspiciatis, provident atque molestias.</p>
+        <h1 className='gradient__text'>Tattoo and art desing</h1>
+        <p>Anzelikan valmistuttua rakennusmaalariksi, hän päätti jatkaa opiskelua automaalariksi ja valmistuikin lisäksi erikoismaalauksenosaajaksi. Perheen, opiskelun ja työn ohessa hän on kerennyt toteuttamaan itseään lisää kursseja käymällä, kynäruiskumaalauksia tehden ja työnäytöksiä antamalla. Moni on saattanut hänet nähdä jo vuosia sitten eri tapahtumissa, kuten moottoripyörämessuilla tai kokoontumisajoissa, joista Linna cruising lähimpiä paikallisia. Ensimmäinen erikoismaalaus toteutui 2006, siitä lähtien maalauksia on syntynyt tähän päivään asti. Vuonna 2012 kuvioon astuivat tatuoinnit.
+Päivätyön ohessa tatuointisuunnittelut toiveiden mukaisesti luonnistuvat ja toteutuvat Hämeenlinnassa.
+Lempitöikseen hän mainitsee realistiset muotokuvamaalaukset valokuvasta, sekä kaikenlaiset tatuointityylit.</p>
         
         <div className='gpt3__header-content__people'>
-          <p>Reserve your time now!</p>
+          <p>Varaa aika!</p>
       </div>
-      <a className='email-link' href="mailto:dummytext@gmail.com?">Email me!</a>
+      <a className='email-link' href="mailto:dummytext@gmail.com?">Ota yhteyttä!</a>
     </div> 
   <div className='gpt3__header-image'>
     <img src={Port} alt="Port"/>
