@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ansku-app/static/css/main.9b0912ec.css",
-    "main.js": "/ansku-app/static/js/main.2ac9e510.js",
+    "main.js": "/ansku-app/static/js/main.01802668.js",
     "static/media/Port.JPG": "/ansku-app/static/media/Port.6204864cc516642f11b6.JPG",
     "static/media/photo1.jpg": "/ansku-app/static/media/photo1.3b3e197afa9aff24760d.jpg",
     "static/media/photo3.jpg": "/ansku-app/static/media/photo3.8175c65662cbf526cd1b.jpg",
@@ -9,10 +9,10 @@
     "static/media/logo.svg": "/ansku-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/ansku-app/index.html",
     "main.9b0912ec.css.map": "/ansku-app/static/css/main.9b0912ec.css.map",
-    "main.2ac9e510.js.map": "/ansku-app/static/js/main.2ac9e510.js.map"
+    "main.01802668.js.map": "/ansku-app/static/js/main.01802668.js.map"
   },
   "entrypoints": [
     "static/css/main.9b0912ec.css",
-    "static/js/main.2ac9e510.js"
+    "static/js/main.01802668.js"
   ]
 }
