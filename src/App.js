@@ -1,8 +1,5 @@
 import React from 'react'
-import Photo1 from "./assets/photo1.jpg"
-import Photo2 from "./assets/photo2.jpg"
-import Photo3 from "./assets/photo3.jpg"
-
+import { PHOTO1, PHOTO2, PHOTO3, PHOTO4, PHOTO5, PHOTO6 } from "./assets/photobundle";
 import { Footer, WhatAnsku, Header, ImageSlider, } from "./containers";
 import { Navbar } from "./components";
 import "./App.css";
@@ -16,7 +13,7 @@ const App = () => {
       </div>
       <Header />
       <WhatAnsku />
-      <ImageSlider slides={[Photo1, Photo2, Photo3]} />;
+      <ImageSlider slides={[ PHOTO1, PHOTO2, PHOTO3, PHOTO4, PHOTO5, PHOTO6 ]} />;
       <Footer />
     </div>
     </div>
