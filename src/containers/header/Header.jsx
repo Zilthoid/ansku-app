@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
-        <h1 className="gradient__text">Hello my name is Anzelika!</h1>
+        <h1 className="gradient__text">Art & Design by Anzelika</h1>
         <p>
           Tatuointien suunnittelu- sekä toteutustyöt Hämeenlinnassa
           Aulangontiellä.
