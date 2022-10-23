@@ -6,10 +6,11 @@ const Header = () => {
   return (
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
-        <h1 className="gradient__text">Tattoo and art design</h1>
-        Tatuointien suunnittelu- sekä toteutustyöt Hämeenlinnassa
-        Aulangontiellä.
-        <p />
+        <h1 className="gradient__text">Hello my name is Anzelika!</h1>
+        <p>
+          Tatuointien suunnittelu- sekä toteutustyöt Hämeenlinnassa
+          Aulangontiellä.
+        </p>
         <p>
           Toteutan myös kynäruiskulla erikoismaalauksia sekä muotokuvamaalauksia
           valokuvasta, valokuvan tarkkuudella.
@@ -24,7 +25,7 @@ const Header = () => {
         <div className="gpt3__header-content__people">
           <p></p>
         </div>
-        <a className="email-link" href="mailto:dummytext@gmail.com?">
+        <a className="email-link" href="mailto:designanzelika@gmail.com?">
           Ota yhteyttä!
         </a>
       </div>
