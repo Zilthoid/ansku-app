@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ansku-app/static/css/main.9b0912ec.css",
-    "main.js": "/ansku-app/static/js/main.e1485c9b.js",
-    "static/media/Port.JPG": "/ansku-app/static/media/Port.6204864cc516642f11b6.JPG",
-    "static/media/image6.jpeg": "/ansku-app/static/media/image6.2c879843c03fc6beed11.jpeg",
-    "static/media/image2.jpeg": "/ansku-app/static/media/image2.d1ebb48dce7b93e6f4d7.jpeg",
-    "static/media/image5.jpeg": "/ansku-app/static/media/image5.3233e5dd96bd9c219de6.jpeg",
-    "static/media/image1.jpeg": "/ansku-app/static/media/image1.2dd048780d2fd922574b.jpeg",
-    "static/media/image3.jpeg": "/ansku-app/static/media/image3.7882953e22aefc71e874.jpeg",
-    "static/media/image4.jpeg": "/ansku-app/static/media/image4.d5418cd51f1df6e2794c.jpeg",
-    "static/media/logo.svg": "/ansku-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/ansku-app/index.html",
-    "main.9b0912ec.css.map": "/ansku-app/static/css/main.9b0912ec.css.map",
-    "main.e1485c9b.js.map": "/ansku-app/static/js/main.e1485c9b.js.map"
+    "main.css": "/static/css/main.9b0912ec.css",
+    "main.js": "/static/js/main.d6e53650.js",
+    "static/media/Port.JPG": "/static/media/Port.6204864cc516642f11b6.JPG",
+    "static/media/image6.jpeg": "/static/media/image6.2c879843c03fc6beed11.jpeg",
+    "static/media/image2.jpeg": "/static/media/image2.d1ebb48dce7b93e6f4d7.jpeg",
+    "static/media/image5.jpeg": "/static/media/image5.3233e5dd96bd9c219de6.jpeg",
+    "static/media/image1.jpeg": "/static/media/image1.2dd048780d2fd922574b.jpeg",
+    "static/media/image3.jpeg": "/static/media/image3.7882953e22aefc71e874.jpeg",
+    "static/media/image4.jpeg": "/static/media/image4.d5418cd51f1df6e2794c.jpeg",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/index.html",
+    "main.9b0912ec.css.map": "/static/css/main.9b0912ec.css.map",
+    "main.d6e53650.js.map": "/static/js/main.d6e53650.js.map"
   },
   "entrypoints": [
     "static/css/main.9b0912ec.css",
-    "static/js/main.e1485c9b.js"
+    "static/js/main.d6e53650.js"
   ]
 }
