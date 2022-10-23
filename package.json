@@ -1,4 +1,5 @@
-{ "homepage": "http://zilthoid.github.io/ansku-app",
+{
+  "homepage": "http://zilthoid.github.io",
   "name": "ansku-app",
   "version": "0.1.0",
   "private": true,
